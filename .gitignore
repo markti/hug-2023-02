@@ -1,0 +1,4 @@
+**/.debug.sh
+**/*.tfstate*
+**/.terraform*
+**/gcp-key.json
